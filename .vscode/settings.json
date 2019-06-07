@@ -1,0 +1,33 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+  "jest.autoEnable": true,
+  "jest.showCoverageOnLoad": true,
+  "jest.restartJestOnSnapshotUpdate": true,
+  "coverage-gutters.showGutterCoverage": true,
+  "coverage-gutters.showLineCoverage": true,
+  "coverage-gutters.coverageFileNames": [
+    "test-coverage/clover.xml",
+    "test-coverage/lcov.info"
+  ],
+  "eslint.enable": true,
+  // enable style-lint; disable vscode default
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "prettier.arrowParens": "always",
+  "prettier.jsxSingleQuote": false,
+  "prettier.printWidth": 80,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "es5",
+  "todo.colors.done": "green",
+  "todo.indentation": "  "
+}

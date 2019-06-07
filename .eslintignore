@@ -1,0 +1,6 @@
+/components/**/dist/
+/components/**/*.spec.js
+/config/*
+/coverage/**
+/utils/**
+webpack.config.js
